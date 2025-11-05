@@ -7,7 +7,7 @@ package instructor;
        identify(5) -->"Odd"
        identify (6) --> "Even"
       */
-public class Task1 {
+public class Task_1_OddorEven {
 
 
     public static String identify(int num) {
