@@ -1,0 +1,10 @@
+package instructor;
+
+/* Numbers -- Reverse negative number
+Write a return method that can reverse
+negative number and return it as int */
+
+
+
+public class Task_4_ReverseNegative {
+}
